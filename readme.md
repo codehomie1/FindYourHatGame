@@ -16,11 +16,13 @@ Your hat is lost in the forest. Can you find it without falling into a hole?
 - [ ] **Allow player to choose map size**
 - [ ] **Allow player to choose hole frequency**
 - [ ] **Use graphic interface instead of terminal**
+- [ ] **Allow only solvable maps to be generated (maze problem)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-<video src="./assets/20230910-0408-17.0451873.mp4" controls></video>
+- https://github.com/codehomie1/FindYourHatGame/assets/96314847/181f49fa-8133-432c-9cd4-c518854892f6
+
 
 ## Build instructions
 <p>Open terminal</p>
