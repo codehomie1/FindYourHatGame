@@ -12,9 +12,9 @@ Your hat is lost in the forest. Can you find it without falling into a hole?
 
 ## Future Features
 
-- [] **Allow player to choose map size
-- [] **Allow player to choose hole frequency
-- [] **Use graphic interface instead of terminal
+- [ ] **Allow player to choose map size**
+- [ ] **Allow player to choose hole frequency**
+- [ ] **Use graphic interface instead of terminal**
 
 ## Video Walkthrough
 
