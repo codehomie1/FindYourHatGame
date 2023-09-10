@@ -1,5 +1,6 @@
 # JS Terminal Game
 
+Codecademy backend path project:
 Your hat is lost in the forest. Can you find it without falling into a hole?
 
 ## Features
