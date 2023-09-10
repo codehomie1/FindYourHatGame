@@ -20,7 +20,7 @@ Your hat is lost in the forest. Can you find it without falling into a hole?
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
+<video src="./assets/20230910-0408-17.0451873.mp4" controls></video>
 
 ## Build instructions
 <p>Open terminal</p>
