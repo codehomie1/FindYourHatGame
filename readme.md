@@ -16,7 +16,7 @@ Your hat is lost in the forest. Can you find it without falling into a hole?
 - [ ] **Allow player to choose map size**
 - [ ] **Allow player to choose hole frequency**
 - [ ] **Use graphic interface instead of terminal**
-- [ ] **Allow only solvable maps to be generated (maze problem)
+- [ ] **Allow only solvable maps to be generated (maze problem)**
 
 ## Video Walkthrough
 
