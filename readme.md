@@ -9,9 +9,16 @@ Your hat is lost in the forest. Can you find it without falling into a hole?
 - [X] **Player can move in 4 directions**
 - [X] **Falling in hole or going out of bounds results in game over**
 
+
+## Future Features
+
+- [] **Allow player to choose map size
+- [] **Allow player to choose hole frequency
+- [] **Use graphic interface instead of terminal
+
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+Here's a walkthrough of implemented features:
 
 
 ## Build instructions
