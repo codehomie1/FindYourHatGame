@@ -17,5 +17,5 @@ Here's a walkthrough of implemented required features:
 ## Build instructions
 <p>Open terminal</p>
 <p>type -> npm install</p>
-<p>type -> node main.js</p>
+<p>start game -> node main.js</p>
 
